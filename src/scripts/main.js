@@ -1,1 +1,1 @@
-console.log(utils.greeting);
+console.log('hey mic');
