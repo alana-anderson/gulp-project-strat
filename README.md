@@ -1,5 +1,5 @@
-# frontend-dev-test
-Frontend developer competency test. This will be a function single-page app. (In-progress)
+# gulp test strat
+This will be a function single-page app for gulp based projects. (In-progress)
 
 ## To build the project
 run the following commands:
